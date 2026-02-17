@@ -32,5 +32,7 @@ Tracks spending and generates category-wise analytics charts.
 
 * Event-driven programming
 * Data aggregation & structuring
+
+  
 * Visualization storytelling
 * Building real-world desktop tools
